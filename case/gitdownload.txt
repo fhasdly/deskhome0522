@@ -1,0 +1,57 @@
+115.com
+chivalrousdig@gmail.com
+123456
+
+在TextChanged事件中^[0-9]{1,}$ 正则表达式
+
+Regex r = new Regex("^[0-9]{1,}$");
+
+if(!r.IsMatch(textBox1.Text))
+
+{
+
+Messagebox.Show("请输入数字");
+
+}
+
+private void txtNumber_KeyPress(object sender, System.Windows.Forms.KeyPressEventArgs e)
+
+{
+
+if (e.KeyChar >= '0' && e.KeyChar <= '9')
+
+{
+
+e.Handled = false;
+
+return;
+
+}
+
+e.Handled = true;
+
+}
+
+利用正则表达式限制网页表单里的文本框输入内容：
+
+用正则表达式限制只能输入中文：onkeyup="value=value.replace(/[^\u4E00-\u9FA5]/g,'')" onbeforepaste="clipboardData.setData('text',clipboardData.getData('text').replace(/[^\u4E00-\u9FA5]/g,''))"
+
+1.用正则表达式限制只能输入全角字符： onkeyup="value=value.replace(/[^\uFF00-\uFFFF]/g,'')" onbeforepaste="clipboardData.setData('text',clipboardData.getData('text').replace(/[^\uFF00-\uFFFF]/g,''))"
+
+2.用正则表达式限制只能输入数字：onkeyup="value=value.replace(/[^\d]/g,'') "onbeforepaste="clipboardData.setData('text',clipboardData.getData('text').replace(/[^\d]/g,''))"
+
+3.用正则表达式限制只能输入数字和英文：onkeyup="value=value.replace(/[\W]/g,'') "onbeforepaste="clipboardData.setData('text',clipboardData.getData('text').replace(/[^\d]/g,''))" 
+
+
+git clone             克隆
+git branch test       新建分支test
+git checkout test      切换到test分支
+git -st	     	
+git pull	      更新本地
+git add		      添加
+git commit -m"tj1"    提交tj1  
+git push origin master  推
+git hist
+git log
+git merge             合并分支
+derProvider）

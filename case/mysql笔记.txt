@@ -1,0 +1,3 @@
+修改密码mysqladmin -uroot -p123456 password 123；
+忘记root密码：打开DOS窗口，转到mysql\bin目录，输入mysqld --skip-grant-tables，再开一个DOS窗口，输入mysql回车，连接权限数据库：use mysql;，改密码：update user set password=password("root") where user="root";，刷新权限：flush privileges;，退出quit。
+删除库drop database test;
