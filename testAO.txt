@@ -1,44 +1,5 @@
 测试文档包括：测试计划、测试方案、测试用例、测试报告
 
-http://115.29.100.169/new_ver/admin/index.php 大商创管理中心
-http://115.29.100.169/new_ver/seller/privilege.php?act=login  大商创商家
-http://115.29.100.169/new_ver/ 大商创商城
-
-5B%E5%A4%A7%E5%AE%B6%E7%BD%91%5DJava2%E6%A0%B8%E5%BF%83%E6%8A%80%E6%9C%AF%E7%AC%ACI%E5%8D%B7.%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%867th%5Bwww.TopSage.com%5D.pdf
-
-http://test.qjsc.com/admin/全晋商城后台地址
-http://test.qjsc.com/admin/index.php 加盟商后台
-komio
-1qw23er4
-13140101429
-zq1145399906
-
-http://csm.test.xqkj.com/  erp后台管理测试地址
-http://auth.xqkj.com/      erp后台管理中心
-http://test.qjsc.com/mobile/index.php?r=user/login  手机web
-sunxiaoqin
-123456
-
-
-全境通正式站点   ： http://new.qjto.cn/
-全境通正式后台   ： http://new.qjto.cn/Admin/
-admin
-1qw23er4+{:>_PL<
-
-数据库
-115.29.100.169:3306
-aA
-15652977515
-大长今
-w15652977515
-
-加盟商
-tc3h    asd@4123
-全晋商城
-13240101429
-zq1145399906
-
-
 接口测试  diddler 
 
 边界值测试：
@@ -107,12 +68,11 @@ houliang1---19970410
 107   
 QQ145427---2311725211
 
-新浪江山
-
-
+江山
+1195837523
 1573029146
 1195828513
-
+1737068686    71483672
 
 华夏 30
 招商 6
@@ -120,7 +80,3 @@ QQ145427---2311725211
 蚂蚁 9
 交通 13
 袋袋熊 19
-
-
-
-
