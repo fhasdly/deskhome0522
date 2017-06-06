@@ -44,7 +44,7 @@ e.Handled = true;
 
 
 git clone             克隆
-git branch test       新建分支test
+git branch -r          查看远程分支
 git checkout test      切换到test分支
 git -st	     	
 git pull	      更新本地
