@@ -1,0 +1,21 @@
+SE:标准版
+EE:企业版  服务器端.包括javaWeb(三大组件:1.servlet:2.listener:监听器3.filter:过滤器)和EJB容器
+ME:微型版
+html:超文本标记语言，
+css:层叠样式。
+js:属于网络的脚本语言。
+xml:可扩展标记语言，用于标记电子文件使其具有结构性的标记语言。
+sevlet:是javaWeb的三大组件的核心,是动态资源,可以被浏览器请求访问。作用是处理客户端的请求,并向客户端做出响应。
+jsp:java服务器页面。在传统的网页HTML文件中插入Java程序段(Scriptlet)和标记从而形成JSP文件。
+strust:关联html
+Hibernate:简化操作数据库。使用java操作
+spring:
+
+过滤器，监听器，ajax，json，jquery，el、ogl表达式，struts，hibernate，
+
+
+spring:非侵入式的轻量级框架，控制对象，控制反转，切面编程，整合。
+
+
+
+span容器
