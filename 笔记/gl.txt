@@ -11,9 +11,10 @@ strust:关联html
 Hibernate:简化操作数据库。使用java操作
 spring:
 
-过滤器，监听器，ajax，json，jquery，el、ogl表达式，struts，hibernate，
+过滤器，监听器，ajax，json，jquery，el、ogl表达式，
 
-
+struts:主要是用于对显示层和控制层的，对客户端的请求做出相应的响应，并返回响应结果到客户端。使用MVC模式，ActionServlet拦截用户请求，Action接收用户请求，并调用相应业务逻辑代码来处理请求，并将处理结果通过jsp返回显示给用户。
+hibernate:对JDBC进行了非常轻量级的对象封装，使得Java程序员可以随心所欲的使用对象编程思维来操纵数据库。
 spring:非侵入式的轻量级框架，控制对象，控制反转，切面编程，整合。
 
 

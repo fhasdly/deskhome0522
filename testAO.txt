@@ -1,3 +1,26 @@
+	
+《阿里云服务器从入门到精通》论坛精华帖汇总
+http://click.aliyun.com/m/23400/	
+《新用户必看_说说新用户买主机的那些困惑
+http://click.aliyun.com/m/23401/	
+CPU、内存多少才够用？
+http://click.aliyun.com/m/23402/	
+什么是云主机_云服务器与vps有什么区别？
+http://click.aliyun.com/m/23403/
+杭州节点和青岛节点服务器对比
+http://click.aliyun.com/m/23404/
+区域选择帮助
+http://click.aliyun.com/m/23405/
+如何选择服务器操作系统
+http://click.aliyun.com/m/23406/
+售前常见问题集锦（关于IP、节点、带宽、配置升级等
+http://click.aliyun.com/m/23407/
+云服务器选购常见FAQ			
+http://click.aliyun.com/m/23408/	
+
+
+
+
 测试文档包括：测试计划、测试方案、测试用例、测试报告
 
 接口测试  diddler 
