@@ -1,3 +1,29 @@
+Hadoop与大数据挖掘》一1.2　大数据平台
+http://click.aliyun.com/m/24006/
+Linux主机肉鸡木马minerd导致CPU跑满
+http://click.aliyun.com/m/23800/
+浅聊inode索引节点
+http://click.aliyun.com/m/23996/
+服务器Linux系统下的ext文件系统修复的完美方案
+http://click.aliyun.com/m/23997/
+PAI分布式机器学习平台编程模型演进之路
+http://click.aliyun.com/m/23715/
+BP算法双向传_链式求导最缠绵（深度学习入门系列之八）
+http://click.aliyun.com/m/24004/
+
+
+Centos7 docker安装实例
+http://click.aliyun.com/m/23898/
+Centos7 下建立 Docker 桥接网络
+http://click.aliyun.com/m/23899/
+docker安装centos后没有ifconfig命令解决办法	
+http://click.aliyun.com/m/23900/
+阿里云总裁胡晓明40个精彩回答 涉及CDN、价格战、生态竞争等	
+http://click.aliyun.com/m/23912/
+开源软件真的是反专利的吗？	
+http://click.aliyun.com/m/23916/
+
+
 《阿里云服务器从入门到精通》论坛精华帖汇总
 http://click.aliyun.com/m/23400/	
 《新用户必看_说说新用户买主机的那些困惑

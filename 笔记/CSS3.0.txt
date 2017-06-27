@@ -1,5 +1,5 @@
+10天精通css3----3D菜单
     	even：偶数/	odd：奇数
-	
         padding: 0;	       		/*边框内边距*/
         margin: 0;	      	 	/*边框外边距*/
         list-style-type: none; 		/*设置所有的列表属性*/
@@ -12,6 +12,7 @@
         overflow : hidden;	 	/*裁剪div中溢出的内容auto自动*/
         position : absolute;		/*绝对定位*/
         border   : 1px solid #ccc;
+	resize: both | horizontal | vertical 		改变全部/宽度/高度
         float: left;					/*向左浮动*/
 	border-radius    				圆角效果
 	text-shadow: 0 1px 1px #fff			字体阴影
@@ -25,7 +26,10 @@
 	placeholder="请输入昵称"			默认显示
 	onfocus="this.placeholder =' '"			获得焦点显示空
 	onblur="this.placeholder = '输入昵称'"		失去焦点显示“”
-	
+	.flexcontainer{ display: flex;flex-direction: row;justify-content: flex-start; }		 如果flex-direction设置为row，设置justify-content控制方向；如果设置为column，设置align-items控制方向。
+		     例/：body {display:flex;align-items:center;justify-content:center;}        	 自适应水平垂直居中
+		     例/：img {max-width:100%;}								 弹性图片
+	@media screen and (max-width:480px){.ads {display:none;}}	当屏幕小于或等于480时,广告区块（.ads）将隐藏
 动作：transform-
 	origin: 50px 70px;				设置中心点位置				
 	rotate(45deg)					旋转
